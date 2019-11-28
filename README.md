@@ -12,6 +12,10 @@ This repository includes:
 1) Three .csv files for the three cities analyzed - new_york_city.csv, washington.csv and chicago.csv
 2) Python script file for exploring the data in the .csv files - Twane_PProject.py
 
+**How to access this fun interactive project file8**
+Save the Twane_PProject.py script file with the three .csv files into one folder.
+Then use any suitable Python platform to interpret the code. I utlized Jupyter Notebook, which can be downloaded from [Ananconda](https://www.anaconda.com). The code script was created in Python 3, so you will need the same version. You will also need a suitable text editor and I chose Sublime Text which can be downloaded from [Sublime Text](https://www.sublimetext.com).
+
 
 ### Credits
 To complete this project, I used the understanding and knowledgebase build throughout the course Introduction to Python. When I struggled to decipher lines of code needed in the script, I referred to the excellent resources mentioned below:
