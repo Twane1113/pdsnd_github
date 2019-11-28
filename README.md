@@ -1,8 +1,6 @@
 ### 28th November 2019
 
-
 # US Bikeshare
-
 
 ### Description
 This is an Udacity project forming part of the Programming for Data Science for Enterprise Nanodegree Program. Using the powerful Python language, and more specifically the Pandas and Numpy features, it enables the user customized input in order to explore the data for three cities - New York City, Washington and Chicago.
@@ -18,7 +16,6 @@ Then use any suitable Python platform to interpret the code. I utlized Jupyter N
 
 ### Roadmap
 As technology advances more in the future, we are hoping to eventually roll this project out as a live interactive website with amazing graphics and life-like user experiences.
-
 
 ### Credits
 To complete this project, I used the understanding and knowledgebase build throughout the course Introduction to Python. When I struggled to decipher lines of code needed in the script, I referred to the excellent resources mentioned below:
